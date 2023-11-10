@@ -11,5 +11,5 @@
                 break;
         }
     }else{
-        $("body").append(`<script src="https://fastly.jsdelivr.net/gh/hsjzhcq/hcqHome@main/main/${typeIndex===2?'special_':''}cont.min.js"></srcipt>`);
+        $("body").append(`<script src="https://fastly.jsdelivr.net/gh/Nov2-Lmm/6666@main/main/${typeIndex===2?'special_':''}cont.min.js"></srcipt>`);
     }
